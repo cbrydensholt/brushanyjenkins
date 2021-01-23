@@ -9,6 +9,7 @@ public class Statistic {
     Date date;
 
 //tester
+    //test 2 hehe
 
     // prøv at lave many to many relation på customer / commercial. husk ret på customer også
 // tester lige om dette virker istedet for en "many to one relation

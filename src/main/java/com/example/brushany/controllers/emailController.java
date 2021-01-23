@@ -17,7 +17,7 @@ public class emailController {
 
     @GetMapping("/sendemail")
     public String sendEmail(){
-
+//hey ya
         return "sendEmail";
 
     }
